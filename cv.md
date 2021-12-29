@@ -17,6 +17,13 @@ I chose the *Frontend Development*, because I like to see the result of my work 
 
 ---
 
+## **Skills:**
+* C++
+* VS Code
+* JavaScript Basics
+* HTML & CSS
+* Git, GitHub
+
 
 
 

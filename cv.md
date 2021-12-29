@@ -47,6 +47,21 @@ body {
 * SMT operator
 * CR adjuster
 
+---
+
+## **Education:**
+* **College:** Brest State Polytechnic College. 
+Speciality: *technician-technologist*
+* **University:** Belarusian State University of Informatics and Radioelectronics. 
+Speciality: *electronics engineer* (2 course)
+* **Courses:** RS School Course «**JavaScript/Front-end. Stage 0**» 
+
+---
+
+## **Languages:**
+* **Russian** - native
+* **English** - B1
+
 
 
 

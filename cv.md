@@ -24,6 +24,28 @@ I chose the *Frontend Development*, because I like to see the result of my work 
 * HTML & CSS
 * Git, GitHub
 
+---
+
+## **Code example:**
+```
+element.style {
+    background-color: rgb(0, 0, 0);
+}
+body {
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 81.25%;
+}
+body {
+    background: #000000;
+    margin: 0;
+} 
+```
+
+---
+
+## **Work experience:**
+* SMT operator
+* CR adjuster
 
 
 

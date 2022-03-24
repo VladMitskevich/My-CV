@@ -60,7 +60,7 @@ Speciality: *electronics engineer* (2 course)
 
 ## **Languages:**
 * **Russian** - native
-* **English** - B1
+* **English** - A2+
 
 
 

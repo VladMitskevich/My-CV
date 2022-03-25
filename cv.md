@@ -4,6 +4,7 @@
 * **E-mail:** vlad.mitskevich@mail.ru
 * **Location:** Brest, Belarus
 * **GitHub:** VladMitskevich
+* **Telegram:** Vlad
 
 ***
 
@@ -28,24 +29,27 @@ I chose the *Frontend Development*, because I like to see the result of my work 
 
 ## **Code example:**
 ```
-element.style {
-    background-color: rgb(0, 0, 0);
-}
-body {
-    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
-    font-size: 81.25%;
-}
-body {
-    background: #000000;
-    margin: 0;
-} 
+function addImage(element) {
+   const img = document.createElement('img');
+	img.classList.add('gallery-img')
+	img.src = `${element.urls.regular}`;
+	img.alt = `image`;
+	mainContainer.append(img);
+	}
+searchInput.addEventListener("keypress", function (event) {
+	if (event.key === "Enter") {
+		event.preventDefault();
+		removeImage();
+	}
+})
 ```
 
 ---
 
-## **Work experience:**
-* SMT operator
-* CR adjuster
+## **Projects**
+*Image-gallery
+*Portfolio
+*Eco-sounds
 
 ---
 
@@ -60,7 +64,7 @@ Speciality: *electronics engineer* (2 course)
 
 ## **Languages:**
 * **Russian** - native
-* **English** - B1
+* **English** - A2+
 
 
 
